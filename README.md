@@ -1,1 +1,1 @@
-<a href="https://github.com/thaiminh0911"><img src="https://github.com/thaiminh0911/thaiminh0911/blob/a66b66946ba1a35aa5677397472263577538f91d/README.svg" alt="@thaiminh0911 Github Profile" width="100%"></a>
+<a href="https://github.com/thaiminh0911"><img src="https://raw.githubusercontent.com/ntm2712/ntm2712/refs/heads/main/README.svg" alt="@thaiminh0911 Github Profile" width="100%"></a>
